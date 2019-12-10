@@ -10,7 +10,6 @@ const defangIPaddr = function(address) {
 	});
 
   splitaddr.join("");
-  console.log(splitaddr)
 	return splitaddr;
 };
 
