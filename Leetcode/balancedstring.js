@@ -14,7 +14,6 @@ const balancedStringSplit = function(s) {
 			count++;
 		}
   }
-  console.log(count)
 	return count;
 };
 
